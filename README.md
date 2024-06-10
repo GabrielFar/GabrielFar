@@ -26,3 +26,6 @@ Aqui você pode encontrar todos os projetos que desenvolvi durante a minha vida,
 
 ## Linguagens mais utilizadas
 [![Lingaugens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFar&layout=compact&theme=vue&hide=shaderlab,hlsl&langs_count=7)](https://github.com/GabrielFar?tab=repositories)
+
+## My stats 
+[![Stats](https://github-readme-stats.vercel.app/api?username=GabrielFar&show_icons=true&theme=vue)](https://github.com/GabrielFar)
