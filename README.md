@@ -4,19 +4,20 @@ Here you can find all the projects I've developed troughout my life, many now on
 
 - Computer Science Student, Universida Federal da Fronteira Sul, Chapecó - SC
 - There's nothing that can't be learned
-- 1ª Rule of Codding: If it works, don't touch it
+- 1st Rule of Codding: If it works, don't touch it
 
 ## Languages and Tools
-<p align="left">
+<div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="hmtl5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Angular.svg" alt="angular" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="40" height="40"/>
-</p>
+</div>
 
 ## Follow Me!
 [![Instagram](https://img.shields.io/badge/Instagram-purple.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielbochifarina/)
