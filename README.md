@@ -2,7 +2,7 @@
 
 Here you can find all the projects I've developed troughout my life, many now only God knows how were made, but they work!
 
-- Computer Science Student, Universida Federal da Fronteira Sul, Chapecó - SC
+- Computer Science Student, Universidade Federal da Fronteira Sul, Chapecó - SC
 - There's nothing that can't be learned
 - 1st Rule of Codding: If it works, don't touch it
 
