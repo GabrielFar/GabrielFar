@@ -20,10 +20,12 @@ Here you can find all the projects I've developed troughout my life, many now on
 </div>
 
 ## Follow Me!
-[![Instagram](https://img.shields.io/badge/Instagram-purple.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielbochifarina/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/gabrielbochifarina/)
 [![Gmail](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gabriel.farina2358@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=49984297233)
+[![Instagram](https://img.shields.io/badge/Instagram-purple.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielbochifarina/)
+[![LeetCode](https://leetcode.com/u/gabrielfar/)]
+[![BeeCrowd](https://judge.beecrowd.com/pt/profile/977406)]
 
 ## My Top Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFar&layout=compact&theme=vue&hide=shaderlab,hlsl&langs_count=7)](https://github.com/GabrielFar?tab=repositories)
