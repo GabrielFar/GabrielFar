@@ -11,7 +11,7 @@ Here you can find all the projects I've developed troughout my life, many now on
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="hmtl5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original-wordmark.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/C.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Angular.svg" alt="angular" width="40" height="40"/>
