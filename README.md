@@ -27,9 +27,3 @@ Here you can find all the projects I've developed troughout my life, many now on
 [![Instagram](https://img.shields.io/badge/Instagram-purple.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielbochifarina/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/gabrielfar/)
 [![BeeCrowd](https://img.shields.io/badge/-BeeCrowd-FFEE00?style=for-the-badge&logo=BeeCrowd&logoColor=black)](https://judge.beecrowd.com/pt/profile/977406)
-
-## My Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFar&layout=compact&theme=vue&hide=shaderlab,hlsl&langs_count=7)](https://github.com/GabrielFar?tab=repositories)
-
-## My stats 
-[![Stats](https://github-readme-stats.vercel.app/api?username=GabrielFar&show_icons=true&theme=vue)](https://github.com/GabrielFar)
